@@ -8,7 +8,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,50:a855f7,100:22d3ee&height=220&section=header&text=SAMA%20DAWOOD&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20CS%20%26%20AI%20Student%20%40%20Benha%20University&descAlignY=58&descSize=16" width="100%" alt="Sama Dawood header banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=46&duration=1&pause=99999&color=A855F7&center=true&vCenter=true&width=900&height=90&lines=SAMA+DAWOOD" width="100%" alt="Sama Dawood"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1&pause=99999&color=34D399&center=true&vCenter=true&width=900&height=34&lines=Data+Scientist+%C2%B7+CS+%26+AI+Student+%40+Benha+University" width="100%" alt="Data Scientist · CS & AI Student @ Benha University"/>
 
 <a href="https://linkedin.com/in/sama-dawood-160104344">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&width=820&height=45&lines=%24+init+data_science.py;%24+CS+%26+AI+Student+%40+Benha+University+%C2%B7+GPA+3.8;%24+Python+%C2%B7+NumPy+%C2%B7+Pandas+%C2%B7+SQL+%C2%B7+ML+Fundamentals;%24+IBM+Data+Scientist+Track+%40+DEPI+(Ongoing);%24+Turning+data+into+meaningful+insights." alt="typing intro"/>
@@ -279,6 +281,5 @@ timeline
 
 [Back to top ↑](#top)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,45:a855f7,100:050814&height=140&section=footer" width="100%" alt="footer"/>
 
 </div>
